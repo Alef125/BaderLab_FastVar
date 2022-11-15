@@ -49,4 +49,4 @@ class CellTypeSNPAnnotation:
         for cell_type in all_cell_types[:50]:
             annotations[cell_type] = 0
             annotations[cell_type].loc[self.snps_for_cell_types[cell_type]] = 1
-        annotations.to_csv(filepath_to_save, sep=' ', index=False)
+        annotations.to_csv(filepath_to_save, sep='\t', index=False)
