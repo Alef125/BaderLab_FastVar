@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/All_FastVar/FastVar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/All_FastVar/mgen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/All_FastVar/pgenpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FastVar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/astropy_helpers/astropy-helpers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mgen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pgenpy" vcs="Git" />
   </component>
 </project>
